@@ -1,5 +1,5 @@
 ### FullThesisCode
-This repository contains every file necessary for the development and evaluation of the recommender systems I implemented for my Bachelor Degree in Statistics "From Synopsis to Suggestion: Algorithmic Text-Based Recommendations for Sci-Fi Books".
+This repository contains every file necessary for the development and evaluation of the recommender systems I implemented for my Bachelor Degree in Statistics "From Synopsis to Suggestion: Algorithmic Text-Based Recommendations for Sci-Fi Books", which set out to develop and compare different text-based recommender systems for science fiction books.
 
 The **OGdataframes_and_Tidying** folder contains all the original dataframes and the code I used to tidy them. In particular:
 - files starting with "*sf_*" are the 12 original book dataframes
